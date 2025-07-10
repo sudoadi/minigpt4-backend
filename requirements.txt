@@ -1,0 +1,8 @@
+# minigpt4-backend/requirements.txt
+fastapi
+uvicorn
+pillow
+torch
+transformers
+accelerate
+torchvision
